@@ -1,6 +1,7 @@
 <!--
 	左侧目录树
 	2018.11.25
+	anglesky
 -->
 <template>
 	
@@ -72,7 +73,7 @@
 					level:1,
 					name:'Vue-cli3',
 					link:'',
-					icon:'el-icon-option',
+					icon:'el-icon-setting',
 					items:[{
 						id:4,
 						level:2,
@@ -87,7 +88,7 @@
 					level:1,
 					name:'Vue-cli2',
 					link:'',
-					icon:'el-icon-message',
+					icon:'el-icon-news',
 					items:[{
 						id:6,
 						level:2,
