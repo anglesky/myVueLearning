@@ -12,6 +12,14 @@ export default new Router({
       meta:{
       	title:"Anglesky的主页"
       }
+    },
+    {
+      path: '/iview-Button',
+      name: 'Button',
+      component: ()=>import(/* webpackChunkName: "group-foo" */ "@/myPages/iview/Button.vue"),
+      meta:{
+        title:"Button"
+      }
     }
   ]
 })

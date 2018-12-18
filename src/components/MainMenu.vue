@@ -86,14 +86,14 @@
 				{
 					id:5,
 					level:1,
-					name:'Vue-cli2',
+					name:'iView',
 					link:'',
 					icon:'el-icon-news',
 					items:[{
 						id:6,
 						level:2,
-						name:'Vue学习',
-						link:'',
+						name:'Buttom',
+						link:'/iview-Button',
 						icon:'',
 						items:[]
 					}]
@@ -104,6 +104,4 @@
 	}
 </script>
 
-<style lang="less" src="@/assets/less/menu.less">
-</style>
-
+<style lang="less" src="@/assets/less/menu.less"></style>

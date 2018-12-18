@@ -41,8 +41,6 @@ export default {
   flex-direction: row;
   justify-content: flex-start;
   .menu{
-    flex-grow: 1;
-    // width: 200px;
     width: 200px;
   }
   .main-body{
