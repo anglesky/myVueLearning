@@ -20,6 +20,14 @@ export default new Router({
       meta:{
         title:"Button"
       }
+    },
+    {
+      path: '/iview-Grid',
+      name: 'Grid',
+      component: ()=>import(/* webpackChunkName: "group-foo" */ "@/myPages/iview/grid.vue"),
+      meta:{
+        title:"Grid"
+      }
     }
   ]
 })

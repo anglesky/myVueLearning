@@ -96,6 +96,13 @@
 						link:'/iview-Button',
 						icon:'',
 						items:[]
+					},{
+						id:7,
+						level:2,
+						name:'Grid',
+						link:'/iview-Grid',
+						icon:'',
+						items:[]
 					}]
 				},
 				]
